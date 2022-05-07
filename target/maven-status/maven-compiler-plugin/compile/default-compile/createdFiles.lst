@@ -1,0 +1,8 @@
+testcases\TC001_LoginAndLogout.class
+pages\LoginPage.class
+utils\DataInputProvider.class
+utils\Reporter.class
+wdMethods\ProjectMethods.class
+wdMethods\WdMethods.class
+pages\CRMSSFAPage.class
+wdMethods\SeMethods.class
